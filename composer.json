@@ -1,0 +1,19 @@
+{
+    "name": "jbrathod/timezones",
+    "description": "Timezones - A First Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jigneshsinh",
+            "email": "jigneshpatterndrive@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Jbrathod\\Timezones\\": "src/"
+      }
+    }
+
+}
